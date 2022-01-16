@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tosin-Mayowa
-- 👀 I’m interested in PHP, PHP OOP, PHP LARAVEL,JAVASCRIPT
-- 🌱 I’m currently learning LARAVEL
-- 💞️ I’m looking to collaborate on PHP PROJECT,LARAVEL PHP PROJECT
+- 👀 I’m interested in JAVASCRIPT,React
+- 🌱 I’m currently learning Nodejs
+- 💞️ I’m looking to collaborate on Javascript and React project.
 - 📫 How to reach me toss800@gmail.com
 
 <!---
