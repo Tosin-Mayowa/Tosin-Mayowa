@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tosin-Mayowa
-- 👀 I’m interested in JAVASCRIPT,React
+- 👀 I’m interested in JAVASCRIPT,REACT
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Javascript and React project.
 - 📫 How to reach me toss800@gmail.com
