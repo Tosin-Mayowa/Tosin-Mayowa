@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tosin-Mayowa
-- 👀 I’m interested in JAVASCRIPT,REACT,Nodejs
-- 💞️ I’m looking to collaborate on Javascript,React project,Typescript,Nodejs,Sass,Html,CSS3.
+- 👀 I’m interested in JAVASCRIPT,REACT,NestJs
+- 💞️ I’m looking to collaborate on Javascript,React project,Typescript,NestJs,Sass,Html,CSS3.
 - 📫 How to reach me toss800@gmail.com
 
 <!---
