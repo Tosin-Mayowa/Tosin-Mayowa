@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tosin-Mayowa
-- 👀 I’m interested in NodeJs|Express|MongoDB| ASP.NET Core Web Api,MVC,Razor Page|React
-- 💞️ I’m looking to collaborate on NodeJs|Express| C#|ASP.NET CORE |Javascript|React project|Typescript|NestJs|Sass|Html|CSS3.
+- 👀 I’m interested in NextJs|React|Typescript|NodeJs|Express|MongoDB| ASP.NET Core Web Api,MVC,Razor Page
+- 💞️ I’m looking to collaborate on NextJs|React|NodeJs|Express| C#|ASP.NET CORE |Javascript|NestJs|Sass|Html|CSS3.
 - 📫 How to reach me toss800@gmail.com
 
 <!---
