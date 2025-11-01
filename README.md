@@ -44,8 +44,8 @@ I'm open to collaborating on:
 
 ### 📫 Contact Me  
 - 📧 *Email:* [toss800@gmail.com](mailto:toss800@gmail.com)  
-- 💼 *LinkedIn:* (optional — add your profile link here)  
-- 🌐 *Portfolio:* (optional — add your portfolio or website here)  
+- 💼 *LinkedIn:* [](https://www.linkedin.com/in/mayowa-adejumola-389992137/)  
+   
 
 ---
 
